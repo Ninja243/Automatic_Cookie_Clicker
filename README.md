@@ -1,12 +1,12 @@
 # Automatic Cookie Clicker
-One script to automate <a href="http://orteil.dashnet.org/cookieclicker/">Cookie Clicker</a>; a game by Orteil hosted on dashnet.org
+A script that automates <a href="http://orteil.dashnet.org/cookieclicker/">Cookie Clicker</a>; an indie game by Orteil hosted on dashnet.org.
 
-## Stuff this does:
+### Stuff this does:
 * Clicks the big cookie automatically
 * Buys available cookie upgrades and buildings
 * Clicks on all special cookies.
 
-## Stuff this does not do:
+### Stuff this does not do:
 * Farm plants
 * Spend sugar lumps on building upgrades
 * Create an Elder Covenant to stop wrinklers
