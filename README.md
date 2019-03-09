@@ -1,5 +1,5 @@
 # Automatic Cookie Clicker
-One script to automate Cookie Clicker; a game by Orteil hosted on dashnet.org
+One script to automate <a href="http://orteil.dashnet.org/cookieclicker/">Cookie Clicker</a>; a game by Orteil hosted on dashnet.org
 
 ## Stuff this does:
 This script clicks the cookue automatically, buys available upgrades and buildings and clicks on all special cookies.
