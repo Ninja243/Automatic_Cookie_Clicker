@@ -2,7 +2,16 @@
 One script to automate <a href="http://orteil.dashnet.org/cookieclicker/">Cookie Clicker</a>; a game by Orteil hosted on dashnet.org
 
 ## Stuff this does:
-This script clicks the cookue automatically, buys available upgrades and buildings and clicks on all special cookies.
+* Clicks the big cookie automatically
+* Buys available cookie upgrades and buildings
+* Clicks on all special cookies.
+
+## Stuff this does not do:
+* Farm plants
+* Spend sugar lumps on building upgrades
+* Create an Elder Covenant to stop wrinklers
+* Not click on wrath cookies
+* Automatic ascentions
 
 ## Warning:
 This script takes a lot of power and may slow your browser down. My save file has not been corrupted in the last three months that this has been running on an old laptop but the possibility that that might happen is there. I take no responsibility for any potential physical damage, data corruption, frustration or other forms of emotional damage that may occur due to the use of this script. I am in no way affiliated with the authors of Cookie Clicker. Please don't sue me.
