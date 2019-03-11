@@ -5,7 +5,7 @@ function runclicker() {
   // Click the cookie
   function spam() {
     x.click(); 
-    setInterval(spam, 10);
+    setTimeout(spam, 10);
   }; 
   // Run the cookie clicking function
   spam();
@@ -39,7 +39,7 @@ function runclicker() {
       b[j].click();
       j = j+1;
     };
-    setInterval(abs, 30);
+    setTimeout(abs, 30);
   };  
   // Run the auto buy function
   abs();
@@ -52,7 +52,7 @@ function runclicker() {
       c[j].click();
       j = j+1;
     };
-    setInterval(pu, 500);
+    setTimeout(pu, 500);
   }  
   // Run the special cookie function
   pu();
