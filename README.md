@@ -1,6 +1,9 @@
 # Automatic Cookie Clicker
 A script that automates <a href="http://orteil.dashnet.org/cookieclicker/">Cookie Clicker</a>; an indie game by Orteil hosted on dashnet.org.
 
+### But why?
+Stupid problems require stupid solutions and I can't think of anything stupider than spending literal years of my life collecting virtual cookies. So here we are.
+
 ### Stuff this does:
 * Clicks the big cookie automatically
 * Buys available cookie upgrades and buildings
@@ -14,7 +17,7 @@ A script that automates <a href="http://orteil.dashnet.org/cookieclicker/">Cooki
 * Automatic ascentions
 
 ## ⚠️ Warning:
-This script takes a lot of power and may slow your browser down. My save file has not been corrupted in the last three months that this has been running on an old laptop but the possibility that that might happen is there. I take no responsibility for any potential physical damage, data corruption, frustration or other forms of emotional damage that may occur due to the use of this script. I am in no way affiliated with the authors of Cookie Clicker. Please don't sue me.
+This script takes a lot of power and may slow your browser down. My save file has not been corrupted in the last three months that this has been running on an old laptop but the possibility that that might happen is still there. I take no responsibility for any potential physical damage, data corruption, frustration or other forms of emotional damage that may occur due to the use of this script. I am in no way affiliated with the authors of Cookie Clicker. Please don't sue me.
 
 ### Instructions:
 1) Copy the contents of autoclicker.js
