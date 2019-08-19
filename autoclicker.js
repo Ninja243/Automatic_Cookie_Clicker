@@ -59,4 +59,8 @@ function runclicker() {
   
 }; 
 
+function stopclicker() {
+  runclicker = null;
+};
+
 runclicker();
